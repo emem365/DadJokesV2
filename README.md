@@ -1,10 +1,10 @@
-# DadJokesV2
+# Note:
+This repo has been moved to [emem365/DadJokes/DadJokesV1](https://github.com/emem365/DadJokes/tree/master/DadJokesV1)
 
-![](previews/home.png)
+# DadJokesV2
 
 This is the second and hopefully final version of DadJokes. This simple web based python app pulls jokes from [icanhazdadjoke](http://icanhazdadjoke.com) api and prints them to you. You can check it out [here](https://dadjokesv2.herokuapp.com/)
 
-![](previews/joke.png)
 
 ## Getting Started
 
